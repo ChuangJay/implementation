@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +127,11 @@
   },
   "active": "8f0f76d6236a7eea",
   "lastOpenFiles": [
+    "README.md",
     "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
     "baseInspiration/2022_0406_1023_45_inspiration.md",
     "templates/template - literature.md",
     "templates/template - main.md",
-    "README.md",
     "description/說明 - code 代碼卡.md",
     "templates/template - inspiration.md",
     "templates/template - code.md",
