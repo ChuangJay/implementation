@@ -7,8 +7,12 @@
         "id": "8f0f76d6236a7eea",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "b9dcf7018abad9f1"
       },
@@ -16,8 +20,12 @@
         "id": "242856db510a1067",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "b9dcf7018abad9f1"
       },
@@ -28,7 +36,8 @@
           "type": "markdown",
           "state": {
             "file": "description/說明 - literature 文獻卡.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -86,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,15 +127,15 @@
   },
   "active": "8f0f76d6236a7eea",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "templates/template - main.md",
+    "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
+    "baseInspiration/2022_0406_1023_45_inspiration.md",
     "templates/template - literature.md",
+    "templates/template - main.md",
+    "README.md",
+    "description/說明 - code 代碼卡.md",
     "templates/template - inspiration.md",
     "templates/template - code.md",
     "templates/template.md",
-    "description/說明 - main 主卡.md",
-    "description/說明 - literature 文獻卡.md",
-    "description/說明 - Inspiration 靈感卡.md"
+    "description/說明 - README.md"
   ]
 }

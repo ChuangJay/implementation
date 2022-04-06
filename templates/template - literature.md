@@ -2,7 +2,7 @@
 
 
 # metadata
->** literature 文獻卡元資料 **
+> **literature 文獻卡元資料**
 >- 名稱：
 >- 出版年：
 >- 出版社： 
