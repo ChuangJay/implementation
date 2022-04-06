@@ -1,0 +1,5 @@
+{
+  "format": "YYYY_MMDD_HHmm_ss_",
+  "template": "templates/template",
+  "folder": "/"
+}

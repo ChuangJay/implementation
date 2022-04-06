@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "39c8f608045e1a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f0f76d6236a7eea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "baseMain/2022_0403_2157_09 _main - 實作 Java Stream API 的各種用法.md",
+            "mode": "source"
+          }
+        },
+        "group": "b9dcf7018abad9f1"
+      },
+      {
+        "id": "242856db510a1067",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "baseMain/2022_0403_2157_09 _main - 實作 Java Stream API 的各種用法.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b9dcf7018abad9f1"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1980ce30eaa74db",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ee3d5aa8da753e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72422762b31b4828",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9081a03051d5559b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467
+  },
+  "right": {
+    "id": "9aa4995c35a4fb79",
+    "type": "split",
+    "children": [
+      {
+        "id": "a39dafcde8a12f95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd58ab657d0c834",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "baseMain/2022_0403_2157_09 _main - 實作 Java Stream API 的各種用法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d95c69c8ab88725c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "baseMain/2022_0403_2157_09 _main - 實作 Java Stream API 的各種用法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f0f76d6236a7eea",
+  "lastOpenFiles": [
+    "baseMain/2022_0403_2157_09 _main - 實作 Java Stream API 的各種用法.md",
+    "baseLiterature/2022_0403_2155_12_literature - Core Java  Volume II Advanced Features 11th Edition.md",
+    "README.md",
+    "baseInspiration/2022_0406_1023_45_inspiration.md",
+    "templates/1-2 template - inspiration.md",
+    "templates/1-1 template - literature.md",
+    "templates/2 template - main.md",
+    "templates/3 template - code.md",
+    "templates/template.md",
+    "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md"
+  ]
+}
