@@ -13,32 +13,6 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "b9dcf7018abad9f1"
-      },
-      {
-        "id": "242856db510a1067",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "b9dcf7018abad9f1"
-      },
-      {
-        "id": "88903072f5cdfe7e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "description/說明 - literature 文獻卡.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -125,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "242856db510a1067",
+  "active": "8f0f76d6236a7eea",
   "lastOpenFiles": [
     "README.md",
+    "baseMain/2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service.md",
+    "baseCode/2022_0406_1105_36_code/2022_0406_1105_36_code.md",
+    "baseMain/2022_0403_2157_09_main - 實作 Java Stream API 的各種用法.md",
     "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
     "baseInspiration/2022_0406_1023_45_inspiration.md",
     "templates/template - literature.md",
     "templates/template - main.md",
     "description/說明 - code 代碼卡.md",
-    "templates/template - inspiration.md",
-    "templates/template - code.md",
-    "templates/template.md",
-    "description/說明 - README.md"
+    "templates/template - inspiration.md"
   ]
 }

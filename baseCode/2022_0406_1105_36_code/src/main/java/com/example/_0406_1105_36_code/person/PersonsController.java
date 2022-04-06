@@ -83,7 +83,7 @@ public class PersonsController {
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/search", consumes = MediaType.APPLICATION_JSON_VALUE,
             produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Person> processSubmit(@Validated  @RequestHeader CriteriaDto criteria) {
+    public List<Person> processSubmit(@Validated  @RequestBody CriteriaDto criteria) {
         try {
             return personService.getByCriteriaDto(criteria);
         } catch (InvalidCriteriaException ice) {
