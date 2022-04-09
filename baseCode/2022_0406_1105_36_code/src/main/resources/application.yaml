@@ -3,5 +3,5 @@ logging:
     console: "%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
   level:
     root: INFO
-    org.springframework: INFO
+    org.springframework: TRACE
     com.example._0406_1105_36_code: INFO

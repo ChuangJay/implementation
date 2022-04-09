@@ -1,4 +1,14 @@
 {
   "alwaysUpdateLinks": true,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "foldHeading": false,
+  "showIndentGuide": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  }
 }
