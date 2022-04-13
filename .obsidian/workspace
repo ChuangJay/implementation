@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "baseMain/2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service.md",
+            "file": "2022_0413_2319_50_main - 觀察 Bean Lifecycle.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baseMain/2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service.md",
+                "file": "2022_0413_2319_50_main - 觀察 Bean Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baseMain/2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service.md",
+                "file": "2022_0413_2319_50_main - 觀察 Bean Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "8f0f76d6236a7eea",
   "lastOpenFiles": [
-    "baseMain/2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service.md",
+    "2022_0413_2319_50_main - 觀察 Bean Lifecycle.md",
+    "2022_0413_2323_38_code.md",
     "README.md",
+    "description/說明 - main 主卡.md",
+    "baseMain/2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service.md",
     "baseCode/2022_0406_1105_36_code/2022_0406_1105_36_code.md",
     "templates/template - literature.md",
     "templates/template - inspiration.md",
     "templates/template - code.md",
-    "baseCode/2022_0403_2138_10_code/src/main/java/com/demo0/stream/README.md",
-    "description/說明 - main 主卡.md",
-    "baseMain/2022_0403_2157_09_main - 實作 Java Stream API 的各種用法.md",
-    "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md"
+    "baseCode/2022_0403_2138_10_code/src/main/java/com/demo0/stream/README.md"
   ]
 }
