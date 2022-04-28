@@ -4,6 +4,7 @@
 
 
 # implementation
+- [[2022_0428_1357_46_main - 以 Spring Initizr 腳手架，使用 Hibernate ORM 框架的原生 API 進行 query 資料庫]]
 - [[2022_0413_2319_50_main - 觀察 Bean Lifecycle]]
 - [[2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service]]  
 - [[2022_0403_2157_09_main - 實作 Java Stream API 的各種用法]]  

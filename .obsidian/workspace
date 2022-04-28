@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "baseCode/2022_0403_2138_10_code/HELP.md",
+            "file": "baseMain/2022_0428_1357_46_main - 以 Spring Initizr 腳手架，使用 Hibernate ORM 框架的原生 API 進行 query 資料庫.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baseCode/2022_0403_2138_10_code/HELP.md",
+                "file": "baseMain/2022_0428_1357_46_main - 以 Spring Initizr 腳手架，使用 Hibernate ORM 框架的原生 API 進行 query 資料庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baseCode/2022_0403_2138_10_code/HELP.md",
+                "file": "baseMain/2022_0428_1357_46_main - 以 Spring Initizr 腳手架，使用 Hibernate ORM 框架的原生 API 進行 query 資料庫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "6ae9f1b07291c3da",
   "lastOpenFiles": [
-    "baseCode/2022_0403_2138_10_code/HELP.md",
-    "baseCode/2022_0406_1105_36_code/HELP.md",
-    "baseCode/2022_0413_2323_38_code/HELP.md",
-    "baseCode/2022_0403_2138_10_code/2022_0403_2138_10_code.md",
-    "baseCode/2022_0403_2138_10_code/src/main/java/com/demo0/stream/README.md",
-    "baseCode/2022_0406_1105_36_code/2022_0406_1105_36_code.md",
+    "baseMain/2022_0428_1357_46_main - 以 Spring Initizr 腳手架，使用 Hibernate ORM 框架的原生 API 進行 query 資料庫.md",
+    "baseMain/2022_0413_2319_50_main - 觀察 Bean Lifecycle.md",
+    "baseMain/2022_0406_1103_41_main - 使用 SpringBoot 實作 RESTful 風格的 REST Service.md",
+    "README.md",
+    "baseCode/2022_0428_1400_47_code/2022_0428_1400_47_code.md",
+    "baseCode/2022_0413_2323_38_code/2022_0413_2323_38_code.md",
     "baseLiterature/2022_0406_1101_09_literature - Pivotal Certified Professional Core Spring 5 Developer Exam  A Study Guide Using Spring Framework 5.md",
     "baseLiterature/2022_0403_2155_12_literature - Core Java  Volume II Advanced Features 11th Edition.md",
-    "baseInspiration/2022_0406_1023_45_inspiration.md",
-    "baseMain/2022_0413_2319_50_main - 觀察 Bean Lifecycle.md"
+    "baseCode/2022_0403_2138_10_code/HELP.md",
+    "baseCode/2022_0406_1105_36_code/HELP.md"
   ]
 }
