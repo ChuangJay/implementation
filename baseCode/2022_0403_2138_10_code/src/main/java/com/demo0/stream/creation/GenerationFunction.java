@@ -1,11 +1,57 @@
 package com.demo0.stream.creation;
 import org.junit.jupiter.api.Test;
 import java.math.BigInteger;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 class GenerationFunction {
+
+    @Test
+    /**
+     * 使用 Stream API generate 產生 10 個隨機數
+     */
+    public void demo_generate_011() {
+     int x = 5;
+     Map map = new HashMap<Integer,Integer>();
+     Map map2 = new HashMap<Integer,Integer>();
+     boolean isInverse =false;
+     map.put(0,x);
+     map2.put(x-1,0);
+        for(int i = 0 ;i < x-1;i++){
+            int value  = (int) map.get(i);
+            if(value ==1){
+                isInverse = true;
+            }
+            if(isInverse ) {
+                map.put(i+1,value + 2);
+                map2.put(i,x-i-1);
+            }else {
+                map.put(i+1, value - 2);
+                map2.put(i , i);
+            }
+        }
+
+        System.out.println(map2);
+        for(int i = 0 ;i < x;i++){
+            int count = (int)map.get(i);
+            int count2 = (int)map2.get(i);
+            String star="*";
+            String space =" ";
+            star = space.repeat(count2) +star.repeat(count);
+            System.out.println(star);
+        }
+
+
+
+
+
+
+
+
+    }
 
     @Test
     /**
